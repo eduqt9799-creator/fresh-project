@@ -1,0 +1,27 @@
+{
+  "name": "fresh-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduqt9799-creator/fresh-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/eduqt9799-creator/fresh-project/issues"
+  },
+  "homepage": "https://github.com/eduqt9799-creator/fresh-project#readme",
+  "devDependencies": {
+    "vite": "^8.2.2"
+  }
+}
